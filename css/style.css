@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body {
+  user-select: none;
+}
+
+.Q, #textB {
+  margin-bottom: 30px;
+}
+
+#textA {
+  margin-bottom: 10px;
+}
+
+#next {
+  background-color: wheat;
+  width: 100px;
+}
